@@ -1,0 +1,431 @@
+Name,Party,Votes,Chart,Vote percentage,District
+"BEST, Amanda",FFP,1620,,5.78, Albert 
+"HOLLIS, Adam",KAP,3045,,10.87, Albert 
+"KEECH, Margaret",ALP,7943,,28.36, Albert 
+"MAIZEY, Petrina",GRN,1511,,5.40, Albert 
+"BOOTHMAN, Mark",LNP,13888,,49.59, Albert 
+"STRUTHERS, Karen",ALP,9134,,33.85, Algester 
+"SHORTEN, Anthony",LNP,13687,,50.72, Algester 
+"DUFFY, Gavan",KAP,2286,,8.47, Algester 
+"KERR, Justin",GRN,1877,,6.96, Algester 
+"JONES, Kate",ALP,10549,,36.60, Ashgrove 
+"NEWMAN, Campbell",LNP,14932,,51.81, Ashgrove 
+"WICKS, Norman",KAP,478,,1.66, Ashgrove 
+"NELSON, Ian",ONP,64,,0.22, Ashgrove 
+"JONES, Trevor",Other,156,,0.54, Ashgrove 
+"BAYLEY, Sandra",GRN,2644,,9.17, Ashgrove 
+"VINCENT, Allan",FFP,985,,3.60, Aspley 
+"DAVIS, Tracy",LNP,17923,,65.43, Aspley 
+"BRONOWICKI, Oskar",ALP,6449,,23.54, Aspley 
+"FORREST, David",GRN,2035,,7.43, Aspley 
+"TROUT, Michael",LNP,13652,,45.71, Barron River 
+"FITZGERALD, Brendan",KAP,4732,,15.84, Barron River 
+"SQUIRE, Mike",Other,431,,1.44, Barron River 
+"WETTENHALL, Steve",ALP,8317,,27.85, Barron River 
+"HARDING, Elaine",GRN,2736,,9.16, Barron River 
+"MCLINDON, Aidan",KAP,7744,,26.37, Beaudesert 
+"KRAUSE, Jon",LNP,13835,,47.11, Beaudesert 
+"MCCREADIE, Brett",ALP,4105,,13.98, Beaudesert 
+"ABRAHAMSON, Walter",FFP,478,,1.63, Beaudesert 
+"GRODECKI, Andy",GRN,2448,,8.34, Beaudesert 
+"SAVAGE, Jim",ONP,760,,2.59, Beaudesert 
+"BOCCABELLA, Anne",GRN,3842,,15.33, Brisbane Central 
+"GRACE, Grace",ALP,8435,,33.67, Brisbane Central 
+"BONNETT, Ruth",Other,576,,2.30, Brisbane Central 
+"CAVALLUCCI, Robert",LNP,12201,,48.70, Brisbane Central 
+"CROFT, Peta-Kaye (PK)",ALP,8378,,31.64, Broadwater 
+"BARTON, Verity",LNP,13583,,51.30, Broadwater 
+"O'BRIEN, Ben",FFP,485,,1.83, Broadwater 
+"BRYDGES, James",GRN,851,,3.21, Broadwater 
+"PFORR, Liz",Other,552,,2.08, Broadwater 
+"MCCAMBRIDGE, Peter",KAP,1408,,5.32, Broadwater 
+"CLARKE, Ron",Other,1219,,4.60, Broadwater 
+"MOORE, Chris",ALP,4181,,16.19, Buderim 
+"MOORE, Tony",FFP,838,,3.24, Buderim 
+"BISHOP, Lynette",KAP,2003,,7.76, Buderim 
+"ETHERIDGE, Susan",GRN,2749,,10.64, Buderim 
+"DICKSON, Steve",LNP,16056,,62.17, Buderim 
+"FARMER, Di",ALP,12169,,42.91, Bulimba 
+"DILLAWAY, Aaron",LNP,13244,,46.70, Bulimba 
+"BENNETT, Justin",GRN,2947,,10.39, Bulimba 
+"ANDERSON, Doug",KAP,4117,,15.42, Bundaberg 
+"VERSACE, Trevor",FFP,841,,3.15, Bundaberg 
+"WYATT, Peter Francis",Other,428,,1.60, Bundaberg 
+"HIGGINS, Peter",GRN,785,,2.94, Bundaberg 
+"DEMPSEY, Jack",LNP,14193,,53.16, Bundaberg 
+"HYLAND, Cindy",ALP,6335,,23.73, Bundaberg 
+"MILLER, Jo-Ann",ALP,10945,,38.93, Bundamba 
+"VISKERS, Albert (Alf)",Other,132,,0.47, Bundamba 
+"WATSON, Angela",Other,2213,,7.87, Bundamba 
+"ACASON, Deborah",FFP,897,,3.19, Bundamba 
+"PRENTICE, Jim",GRN,1445,,5.14, Bundamba 
+"KITZELMANN, Michael",LNP,10022,,35.65, Bundamba 
+"GAYNOR, Bernard",KAP,2461,,8.75, Bundamba 
+"NICKSON, Amanda",FFP,655,,2.44, Burdekin 
+"ZYLA, Angela",ALP,5520,,20.58, Burdekin 
+"JOHNSON, Pete",GRN,732,,2.73, Burdekin 
+"MENKENS, Rosemary",LNP,12873,,47.99, Burdekin 
+"WADFORTH, Ronald",KAP,7044,,26.26, Burdekin 
+"SMITH, Christine",ALP,8572,,30.85, Burleigh 
+"HART, Michael",LNP,14222,,51.18, Burleigh 
+"FISHER, Dean",KAP,1976,,7.11, Burleigh 
+"FREDERICKS, Jeremy",FFP,671,,2.41, Burleigh 
+"POWER, Jane",GRN,2345,,8.44, Burleigh 
+"TOMLINSON, Stuart",ALP,4618,,16.25, Burnett 
+"PAULING, Kevin",KAP,4542,,15.98, Burnett 
+"EASTLAND, David",GRN,1066,,3.75, Burnett 
+"BENNETT, Stephen",LNP,11368,,40.01, Burnett 
+"MESSENGER, Rob",Other,6821,,24.00, Burnett 
+"PIVA, John",Other,1141,,4.17, Cairns 
+"KING, Gavin",LNP,11632,,42.51, Cairns 
+"HOLLAND, Geoff",GRN,1946,,7.11, Cairns 
+"LESINA, Kirsten",ALP,7520,,27.48, Cairns 
+"HUNT, Darren",KAP,5125,,18.73, Cairns 
+"PERCY, Camilla",GRN,892,,3.24, Callide 
+"SCOTT, Duncan",Other,567,,2.06, Callide 
+"ENSBY, Steve",KAP,7318,,26.61, Callide 
+"SEENEY, Jeff",LNP,14666,,53.33, Callide 
+"NEWTON, Melissa",ALP,4058,,14.76, Callide 
+"ANTHONY, Christine",ALP,6037,,22.44, Caloundra 
+"MCARDLE, Mark",LNP,17280,,64.22, Caloundra 
+"MCKAY, Allan",GRN,3589,,13.34, Caloundra 
+"CHIDGEY, David",ONP,450,,1.57, Capalaba 
+"CHOI, Michael",ALP,11004,,38.37, Capalaba 
+"ALLMAN-PAYNE, Penny",GRN,2168,,7.56, Capalaba 
+"MOORHOUSE, Graeme",KAP,1708,,5.96, Capalaba 
+"DAVIES, Steve",LNP,13345,,46.54, Capalaba 
+"HENRY, Sarah",KAP,1856,,6.29, Chatsworth 
+"MINNIKIN, Steve",LNP,16541,,56.05, Chatsworth 
+"KILBURN, Steve",ALP,8694,,29.46, Chatsworth 
+"BEARD, Axel",FFP,585,,1.98, Chatsworth 
+"COONEY, Jason",GRN,1836,,6.22, Chatsworth 
+"NICHOLLS, Tim",LNP,17648,,62.33, Clayfield 
+"KEENAN, Will",KAP,1483,,5.24, Clayfield 
+"DAVIDSON, Brent",ALP,6115,,21.60, Clayfield 
+"MOREY, Luke",GRN,3068,,10.84, Clayfield 
+"LAMBERT, Ronald",Other,1223,,4.09, Cleveland 
+"ROBINSON, Mark",LNP,18497,,61.89, Cleveland 
+"SCOTT, Brad",GRN,2263,,7.57, Cleveland 
+"BRISKEY, Jo",ALP,7903,,26.44, Cleveland 
+"MATHISON, John",KAP,6732,,21.32, Condamine 
+"WHITE, Shane",Other,691,,2.19, Condamine 
+"HOPPER, Ray",LNP,18409,,58.30, Condamine 
+"TABIKH, Gabriele",GRN,1273,,4.03, Condamine 
+"SWAN, Nev",ALP,4471,,14.16, Condamine 
+"EVANS, James",ONP,524,,2.23, Cook 
+"RILEY, George",GRN,1295,,5.50, Cook 
+"O'BRIEN, Jason",ALP,7634,,32.42, Cook 
+"KEMPTON, David",LNP,8832,,37.51, Cook 
+"BENSTED, Lachlan",KAP,5261,,22.34, Cook 
+"WISBEY, Chris",GRN,1751,,6.04, Coomera 
+"HARRIP, Rowan",Other,628,,2.17, Coomera 
+"HIGGS, Graeme",ALP,5771,,19.90, Coomera 
+"COBB, Peter",KAP,2902,,10.01, Coomera 
+"CRANDON, Michael",LNP,17951,,61.89, Coomera 
+"PICKERING, Royston",FFP,710,,2.57, Currumbin 
+"WYATT, David",GRN,2624,,9.51, Currumbin 
+"HYSLOP, Calum",ALP,6051,,21.93, Currumbin 
+"STUCKEY, Jann",LNP,16237,,58.84, Currumbin 
+"BOWMAN, Steve",KAP,1973,,7.15, Currumbin 
+"JONES, Jess",GRN,1230,,4.73, Dalrymple 
+"WILLIAMSON, Christopher",Other,172,,0.66, Dalrymple 
+"KNUTH, Shane",KAP,13982,,53.73, Dalrymple 
+"BRISKEY, Jason",Other,177,,0.68, Dalrymple 
+"GERTZ, Benjamin",ALP,2886,,11.09, Dalrymple 
+"SCHMIDT, Liz",LNP,7576,,29.11, Dalrymple 
+"WATT, Murray",ALP,8851,,31.10, Everton 
+"WITHEROW, Denym",KAP,1192,,4.19, Everton 
+"MANDER, Tim",LNP,16364,,57.50, Everton 
+"HALLETT, Bruce",GRN,2053,,7.21, Everton 
+"NIELSEN, Howard",GRN,4051,,14.25, Ferny Grove 
+"WILSON, Geoff",ALP,8929,,31.40, Ferny Grove 
+"SHUTTLEWORTH, Dale",LNP,15458,,54.36, Ferny Grove 
+"DOUGLAS, Alex",LNP,15175,,55.16, Gaven 
+"ROADLEY, Bibe",FFP,1298,,4.72, Gaven 
+"RIORDAN, Michael",ALP,6289,,22.86, Gaven 
+"TOLAND, Penny",Other,799,,2.90, Gaven 
+"POWER, Stephen",GRN,1536,,5.58, Gaven 
+"ZIMMERMAN, Brian",KAP,2413,,8.77, Gaven 
+"BUTCHER, Glenn",ALP,8359,,29.19, Gladstone 
+"CUNNINGHAM, Liz",Other,14020,,48.96, Gladstone 
+"SCHROTER, Russell",LNP,3109,,10.86, Gladstone 
+"BEEZLEY, Anthony",KAP,2545,,8.89, Gladstone 
+"BLAKE, Andrew",GRN,602,,2.10, Gladstone 
+"LUKE, Stewart",GRN,4455,,15.64, Glass House 
+"POWELL, Andrew",LNP,15910,,55.85, Glass House 
+"MOORE, Ryan",ALP,5032,,17.67, Glass House 
+"HARRIS, Peter",KAP,3088,,10.84, Glass House 
+"ROSE, Emma-Kate",GRN,3529,,12.92, Greenslopes 
+"DICK, Cameron",ALP,10713,,39.22, Greenslopes 
+"KAYE, Ian",LNP,13076,,47.87, Greenslopes 
+"CURRIE, Bruce",Other,831,,3.67, Gregory 
+"JOHNSON, Vaughan",LNP,13399,,59.10, Gregory 
+"WESTON, Norman",GRN,617,,2.72, Gregory 
+"O'BRIEN, Jack",ALP,3970,,17.51, Gregory 
+"WILLIAMS, Pauline",KAP,3855,,17.00, Gregory 
+"FERRARO, Santo",ONP,335,,1.18, Gympie 
+"HAWKE, Kathy",FFP,917,,3.23, Gympie 
+"PAULGER, Shane",KAP,6198,,21.83, Gympie 
+"GIBSON, David",LNP,15054,,53.03, Gympie 
+"PARKER, Ben",ALP,3475,,12.24, Gympie 
+"MACDONALD, Shena",GRN,2410,,8.49, Gympie 
+"SORENSEN, Ted",LNP,17668,,59.23, Hervey Bay 
+"SULLIVAN, Troy",FFP,1124,,3.77, Hervey Bay 
+"MARTIN, Glenn",GRN,1029,,3.45, Hervey Bay 
+"DALE, Isobel",KAP,3684,,12.35, Hervey Bay 
+"ALLEN, Bernice",ALP,6325,,21.20, Hervey Bay 
+"MONAGHAN, Pamela",GRN,867,,3.19, Hinchinbrook 
+"KNUTH, Jeff",KAP,9564,,35.24, Hinchinbrook 
+"CONNORS, Desmond",Other,263,,0.97, Hinchinbrook 
+"CRIPPS, Andrew",LNP,11952,,44.04, Hinchinbrook 
+"MCGUIRE, Tony",ALP,4491,,16.55, Hinchinbrook 
+"LINDGREN, Joanna",LNP,9115,,35.06, Inala 
+"QUALL, Michael",GRN,1874,,7.21, Inala 
+"PALASZCZUK, Annastacia",ALP,12016,,46.22, Inala 
+"DODD, Ashley",KAP,2993,,11.51, Inala 
+"SCHLAMOWITZ, Oscar",ALP,4669,,18.67, Indooroopilly 
+"MOONEY, Andrew",FFP,488,,1.95, Indooroopilly 
+"WORRINGHAM, Charles",GRN,4623,,18.49, Indooroopilly 
+"EMERSON, Scott",LNP,15225,,60.89, Indooroopilly 
+"JEREMY, Robert",Other,259,,0.93, Ipswich 
+"PETERSEN, Patricia",Other,2470,,8.84, Ipswich 
+"STIELER, Tim",FFP,880,,3.15, Ipswich 
+"KEYS, Will.",KAP,4041,,14.46, Ipswich 
+"BERRY, Ian",LNP,10023,,35.87, Ipswich 
+"WHITE, Veronica",GRN,1568,,5.61, Ipswich 
+"NOLAN, Rachel",ALP,8703,,31.14, Ipswich 
+"WENDT, Wayne",ALP,9083,,31.83, Ipswich West 
+"CHOAT, Sean",LNP,12424,,43.54, Ipswich West 
+"BOWMAN, Justin",KAP,5225,,18.31, Ipswich West 
+"MONSIEGNEUR, Ursula",GRN,1804,,6.32, Ipswich West 
+"DOHERTY, Rachel",GRN,2125,,7.91, Kallangur 
+"O'NEILL, Mary-Anne",ALP,7750,,28.85, Kallangur 
+"RUTHENBERG, Trevor",LNP,13983,,52.05, Kallangur 
+"BATES, Michael",KAP,3005,,11.19, Kallangur 
+"BLEIJIE, Jarrod",LNP,19132,,66.84, Kawana 
+"SPENCER, Paul",KAP,1994,,6.97, Kawana 
+"ROBERTS, Gabrielle",GRN,2384,,8.33, Kawana 
+"GARNER, Bruce",ALP,5114,,17.87, Kawana 
+"BAMBRICK, Paul",GRN,1905,,6.41, Keppel 
+"YOUNG, Bruce",LNP,13143,,44.25, Keppel 
+"HARGREAVES, Luke",KAP,4722,,15.90, Keppel 
+"HOOLIHAN, Paul",ALP,9935,,33.45, Keppel 
+"NEUENDORF, David",KAP,6571,,23.82, Lockyer 
+"RUDKIN, Clare",GRN,1790,,6.49, Lockyer 
+"RICKUSS, Ian",LNP,14348,,52.01, Lockyer 
+"WILSON, James",ALP,4876,,17.68, Lockyer 
+"PUCCI, Michael",LNP,10388,,41.01, Logan 
+"HINTON, Julian",GRN,1362,,5.38, Logan 
+"KARAMATIC, Tony",KAP,3196,,12.62, Logan 
+"POWER, Linus",ALP,8431,,33.29, Logan 
+"KELLY, Mike",Other,1559,,6.16, Logan 
+"AGGETT, Troy",ONP,392,,1.55, Logan 
+"CHEVERTON, Daniel",ALP,10961,,39.29, Lytton 
+"CRUTE, Daniel",GRN,2256,,8.09, Lytton 
+"VOTE, Jim",KAP,1881,,6.74, Lytton 
+"SYMES, Neil",LNP,12181,,43.66, Lytton 
+"MCVEY, Russell",Other,618,,2.22, Lytton 
+"TEMPLE, Lindsay",KAP,4870,,18.94, Mackay 
+"KERSLAKE, John",LNP,9499,,36.94, Mackay 
+"MATHEWS, Luke",GRN,1425,,5.54, Mackay 
+"MULHERIN, Tim",ALP,9920,,38.58, Mackay 
+"FERRANDO, Carolyn",FFP,696,,2.68, Mansfield 
+"SHEEHAN, Craig",GRN,1592,,6.12, Mansfield 
+"REEVES, Phil",ALP,8416,,32.37, Mansfield 
+"WALKER, Ian",LNP,13953,,53.67, Mansfield 
+"WIRTH, Jarrod J",Other,206,,0.79, Mansfield 
+"SMITH, Ray",KAP,1135,,4.37, Mansfield 
+"SKINNER, Rainee",GRN,3652,,13.00, Maroochydore 
+"SIMPSON, Fiona",LNP,16339,,58.16, Maroochydore 
+"MAGUIRE, Mark",KAP,2440,,8.69, Maroochydore 
+"BARBER, Ray",ALP,5660,,20.15, Maroochydore 
+"BURTT, Ezra",ALP,3538,,11.77, Maryborough 
+"DALE, Gordon",KAP,5879,,19.56, Maryborough 
+"MADDERN, Anne",LNP,10745,,35.74, Maryborough 
+"FOLEY, Chris",Other,9071,,30.17, Maryborough 
+"CLARIDGE, Garry",GRN,830,,2.76, Maryborough 
+"DONOVAN, Ben",FFP,788,,2.87, Mermaid Beach 
+"BODDY, Jenny",GRN,2043,,7.45, Mermaid Beach 
+"LAW, Ken",KAP,1664,,6.07, Mermaid Beach 
+"STEVENS, Ray",LNP,17856,,65.13, Mermaid Beach 
+"PATERSON, Rachel",ALP,5064,,18.47, Mermaid Beach 
+"CARLISLE, Christine",GRN,975,,3.34, Mirani 
+"MALONE, Ted",LNP,13599,,46.65, Mirani 
+"PIDGEON, Bevan",KAP,5585,,19.16, Mirani 
+"CROUTHER, Mike",FFP,626,,2.15, Mirani 
+"PEARCE, Jim",ALP,8369,,28.71, Mirani 
+"SEARLE, Barry Anthony",KAP,2112,,7.28, Moggill 
+"SCHOERMER, Jake",GRN,4001,,13.80, Moggill 
+"NELSON, Michael",ALP,4540,,15.65, Moggill 
+"FLEGG, Bruce",LNP,18348,,63.27, Moggill 
+"RYAN, Mark",ALP,9988,,36.75, Morayfield 
+"GRIMWADE, Darren",LNP,12779,,47.02, Morayfield 
+"BECK, Stephen",KAP,2880,,10.60, Morayfield 
+"DOHERTY, Paul",GRN,1532,,5.64, Morayfield 
+"STONE, Adam",GRN,5269,,20.72, Mount Coot-tha
+"FRASER, Andrew",ALP,7285,,28.64, Mount Coot-tha
+"WATERMAN, Margaret",KAP,739,,2.91, Mount Coot-tha
+"RICE, Saxon",LNP,12142,,47.74, Mount Coot-tha
+"PATTEL, Mick",LNP,4731,,29.57, Mount Isa 
+"WILLIAMS, Colleen",GRN,348,,2.17, Mount Isa 
+"KIERNAN, Betty",ALP,4264,,26.65, Mount Isa 
+"KATTER, Rob",KAP,6658,,41.61, Mount Isa 
+"NEWSON, Douglas John",KAP,1169,,4.24, Mount Ommaney 
+"MARCZYK, Ben",ALP,7086,,25.73, Mount Ommaney 
+"SMITH, Tarnya",LNP,15781,,57.30, Mount Ommaney 
+"BROWN, Jordan",FFP,452,,1.64, Mount Ommaney 
+"SCHMITH, Rex G.",Other,360,,1.31, Mount Ommaney 
+"MULKEARNS, Jenny",GRN,2694,,9.78, Mount Ommaney 
+"NICHOLSON, Barrie",FFP,1402,,5.23, Mudgeeraba 
+"SWAN, Kevin",KAP,2056,,7.67, Mudgeeraba 
+"SPAIN, Sally",GRN,2056,,7.67, Mudgeeraba 
+"SANTELISES, Aaron",ALP,4753,,17.73, Mudgeeraba 
+"BATES, Ros",LNP,16534,,61.69, Mudgeeraba 
+"CAVILL, Jim",GRN,899,,3.55, Mulgrave 
+"BYRNES, Damian",KAP,7585,,29.95, Mulgrave 
+"PITT, Curtis",ALP,8739,,34.50, Mulgrave 
+"QUICK, Robyn",LNP,8105,,32.00, Mulgrave 
+"MOYLE, David",KAP,5875,,23.00, Mundingburra 
+"FISHLEY, Bret",GRN,1283,,5.02, Mundingburra 
+"WATERS, Michael",FFP,745,,2.92, Mundingburra 
+"HARRISON, Mark",ALP,6569,,25.72, Mundingburra 
+"CRISAFULLI, David",LNP,11069,,43.34, Mundingburra 
+"GULLEY, Reg",LNP,14040,,49.11, Murrumba 
+"WELLS, Dean",ALP,9267,,32.42, Murrumba 
+"EDWARDS, Paul",KAP,2263,,7.92, Murrumba 
+"VINCENT, Sally",FFP,1622,,5.67, Murrumba 
+"BLAIR, Rodney",GRN,1394,,4.88, Murrumba 
+"DALTON, John",Other,3804,,12.81, Nanango 
+"THOMSON, David",Other,357,,1.20, Nanango 
+"NEWSON, Grant",GRN,1090,,3.67, Nanango 
+"CLARKE, Virginia",ALP,3134,,10.55, Nanango 
+"RACKEMANN, Carl",KAP,7818,,26.33, Nanango 
+"FRECKLINGTON, Deb",LNP,13493,,45.44, Nanango 
+"LAW, John",GRN,1937,,7.07, Nicklin 
+"WELLINGTON, Peter William",Other,10725,,39.14, Nicklin 
+"CONNOLLY, John",LNP,9829,,35.87, Nicklin 
+"SMITH, Matthew",KAP,2075,,7.57, Nicklin 
+"MOORE, Luke",ALP,2154,,7.86, Nicklin 
+"TURNER, Cathy",FFP,684,,2.50, Nicklin 
+"ELMES, Glen",LNP,17121,,60.59, Noosa 
+"JARVIS, Bob",KAP,2548,,9.02, Noosa 
+"MCDONALD, Jim",GRN,4382,,15.51, Noosa 
+"HOPKINS, Kurt",ALP,3514,,12.44, Noosa 
+"COLLEY, Bill",Other,316,,1.12, Noosa 
+"MALONEY, Gemika",FFP,376,,1.33, Noosa 
+"WOODFORTH, Jason",LNP,12862,,44.49, Nudgee 
+"LINARD, Leanne",ALP,10837,,37.49, Nudgee 
+"BELL, Terri",KAP,1953,,6.76, Nudgee 
+"GONSALVES, Claude",FFP,571,,1.98, Nudgee 
+"CROWHURST, Douglas",Other,349,,1.21, Nudgee 
+"PINK, Anthony",GRN,2337,,8.08, Nudgee 
+"HOLSWICH, Seath",LNP,14590,,52.93, Pine Rivers 
+"CLARK, Di",GRN,2326,,8.44, Pine Rivers 
+"BULMAN, Patrick",ALP,7556,,27.41, Pine Rivers 
+"ALEXANDER, John",KAP,3091,,11.21, Pine Rivers 
+"FRANCE, Lisa",LNP,16340,,53.15, Pumicestone 
+"FITZGIBBON, Jenny",GRN,1860,,6.05, Pumicestone 
+"SULLIVAN, Carryn",ALP,9355,,30.43, Pumicestone 
+"KING, Brandt",KAP,3186,,10.36, Pumicestone 
+"COLLINGWOOD, Bevan",KAP,2484,,8.74, Redcliffe 
+"VAN LITSENBURG, Lillian",ALP,8739,,30.76, Redcliffe 
+"DOOLEY, Kerri",FFP,1288,,4.53, Redcliffe 
+"CLOTHIER, Noel",GRN,1912,,6.73, Redcliffe 
+"DRISCOLL, Scott",LNP,13991,,49.24, Redcliffe 
+"SEAGE, Peter",ALP,6524,,24.05, Redlands 
+"DOWLING, Peter",LNP,17849,,65.80, Redlands 
+"KEOGH, David",GRN,2753,,10.15, Redlands 
+"BYRNE, Bill",ALP,11002,,39.79, Rockhampton 
+"FINCH, Gavin",LNP,8781,,31.76, Rockhampton 
+"GULEY, Shane",KAP,3507,,12.68, Rockhampton 
+"HAMILTON, Diane",Other,541,,1.96, Rockhampton 
+"DIAMOND, Bruce",Other,1847,,6.68, Rockhampton 
+"ELLIS, Genevieve",FFP,734,,2.65, Rockhampton 
+"HOOPER, Chris",Other,286,,1.03, Rockhampton 
+"LLOYD, Bronwen",GRN,954,,3.45, Rockhampton 
+"CROOK, Mike",Other,454,,1.64, Sandgate 
+"MCCREERY, Penny",FFP,751,,2.72, Sandgate 
+"OGDEN, Claire",GRN,2483,,8.98, Sandgate 
+"DUNKLEY, John",KAP,1458,,5.27, Sandgate 
+"MILLARD, Kerry",LNP,12096,,43.75, Sandgate 
+"DARLING, Vicky",ALP,10408,,37.64, Sandgate 
+"GREHAN, Clem",LNP,9887,,38.07, South Brisbane 
+"BRAGG, Jo-Anne",GRN,4692,,18.07, South Brisbane 
+"FLENADY, Liam",Other,491,,1.89, South Brisbane 
+"BLIGH, Anna",ALP,10015,,38.57, South Brisbane 
+"WARDROP, Robert",KAP,883,,3.40, South Brisbane 
+"LARSEN, Ade",KAP,4112,,13.86, Southern Downs 
+"SPRINGBORG, Lawrence",LNP,19771,,66.62, Southern Downs 
+"KANE, Michael",GRN,1163,,3.92, Southern Downs 
+"SPELLMAN, John",FFP,652,,2.20, Southern Downs 
+"KIDMAN, Suzanne",ALP,3979,,13.41, Southern Downs 
+"MOLHOEK, Rob",LNP,14890,,55.84, Southport 
+"DALTON, Stephen",GRN,1784,,6.69, Southport 
+"LAWLOR, Peter",ALP,7580,,28.43, Southport 
+"BROWN, Kevin",KAP,1987,,7.45, Southport 
+"MACKECHNIE, Matthew",Other,425,,1.59, Southport 
+"GRANT, John",LNP,15939,,55.67, Springwood 
+"COTTER, Neil",GRN,1910,,6.67, Springwood 
+"STONE, Barbara",ALP,8016,,28.00, Springwood 
+"TOCACIU, Julian",KAP,1923,,6.72, Springwood 
+"LAWRIE, Chris",FFP,845,,2.95, Springwood 
+"DAVIS, Chris",LNP,13423,,50.23, Stafford 
+"JEREMIJENKO, Peter",GRN,3020,,11.30, Stafford 
+"HINCHLIFFE, Stirling",ALP,8972,,33.58, Stafford 
+"HUNTER, Karin",KAP,1307,,4.89, Stafford 
+"FORDE, David",Other,5259,,18.95, Stretton 
+"PEGG, Duncan",ALP,7968,,28.72, Stretton 
+"OSTAPOVITCH, Freya",LNP,13000,,46.85, Stretton 
+"SADLER, Brian",GRN,1521,,5.48, Stretton 
+"DARRAGH, Matt",FFP,1291,,5.01, Sunnybank 
+"KING, Gordon",GRN,2463,,9.56, Sunnybank 
+"STEWART, Mark",LNP,13578,,52.70, Sunnybank 
+"BISHOP, Meg",ALP,8434,,32.73, Sunnybank 
+"RAYMOND, Andrea",FFP,971,,3.71, Surfers Paradise 
+"LANGBROEK, John-Paul",LNP,18993,,72.63, Surfers Paradise 
+"WAINWRIGHT, Helen",GRN,1861,,7.12, Surfers Paradise 
+"DONOVAN, Matthew",ALP,4325,,16.54, Surfers Paradise 
+"TODESCHINI, Steve",KAP,8201,,30.13, Thuringowa 
+"WILLIAMS, Bernie",GRN,986,,3.62, Thuringowa 
+"BRITTON, Adrian",FFP,749,,2.75, Thuringowa 
+"WALLACE, Craig",ALP,7448,,27.36, Thuringowa 
+"COX, Sam",LNP,9837,,36.14, Thuringowa 
+"RIETHMULLER, Neil Leslie",Other,433,,1.45, Toowoomba North 
+"SHINE, Kerry",ALP,9667,,32.28, Toowoomba North 
+"WATTS, Trevor",LNP,14898,,49.75, Toowoomba North 
+"FORSBERG, Frida",GRN,1461,,4.88, Toowoomba North 
+"PYKE, Peter",KAP,3485,,11.64, Toowoomba North 
+"PHILLIPS, Charlene",Other,896,,3.03, Toowoomba South 
+"CURLESS, David",KAP,3520,,11.92, Toowoomba South 
+"MCVEIGH, John",LNP,17283,,58.53, Toowoomba South 
+"MCFARLANE, Sam",ALP,6208,,21.03, Toowoomba South 
+"SMITH, Trevor",GRN,1619,,5.48, Toowoomba South 
+"GRIGG, Ray",KAP,5654,,21.82, Townsville 
+"JOHNSTONE, Mandy",ALP,7585,,29.27, Townsville 
+"STIRLING, Jenny",GRN,1988,,7.67, Townsville 
+"HATHAWAY, John",LNP,10011,,38.63, Townsville 
+"PUNSHON, Michael",FFP,674,,2.60, Townsville 
+"O'BRIEN, Mark Arthur",Other,3124,,13.19, Warrego 
+"EARIXSON, Robert",KAP,3330,,14.06, Warrego 
+"HOBBS, Howard",LNP,13770,,58.13, Warrego 
+"BOWDEN, David",ALP,2995,,12.64, Warrego 
+"MAIZEY, Graeme",GRN,470,,1.98, Warrego 
+"SMITH, Ray",GRN,1986,,7.01, Waterford 
+"PAGE, Albert",KAP,2587,,9.13, Waterford 
+"HOWSE, David Gordon",Other,392,,1.38, Waterford 
+"FARRAR, Peter",FFP,1201,,4.24, Waterford 
+"LATTER, Mike",LNP,11228,,39.62, Waterford 
+"MOORHEAD, Evan",ALP,10947,,38.63, Waterford 
+"JARRATT, Jan",ALP,7901,,27.43, Whitsunday 
+"COSTIGAN, Jason",LNP,12785,,44.38, Whitsunday 
+"DYKYJ, Jonathon",GRN,1695,,5.88, Whitsunday 
+"CAMM, Amanda",KAP,6424,,22.30, Whitsunday 
+"GEANGE, Justin",FFP,2199,,8.76, Woodridge 
+"REDDINGTON, John",GRN,2150,,8.57, Woodridge 
+"DORRIES, Simon",LNP,9012,,35.92, Woodridge 
+"SCOTT, Desley",ALP,11730,,46.75, Woodridge 
+"CONNORS, Libby",GRN,4563,,15.96, Yeerongpilly 
+"JUDGE, Carl",LNP,12356,,43.22, Yeerongpilly 
+"HEWLETT, Kathleen",KAP,1312,,4.59, Yeerongpilly 
+"FINN, Simon",ALP,9875,,34.54, Yeerongpilly 
+"TODD, Alexandra",FFP,480,,1.68, Yeerongpilly 
