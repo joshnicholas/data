@@ -1,4 +1,4 @@
-name: scrape_air_quality
+name: scrape_qld_air_quality
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: "40 * * * *"
+    - cron: "10 * * * *"
 
 jobs:
   build-and-deploy:
