@@ -8,7 +8,7 @@ response = requests.get(url, headers=headers)
 
 root = ET.fromstring(response.content)
 
-csv_path = "qld_air_qualtiy.csv"
+csv_path = "qld_air_quality.csv"
 
 old_df = pd.read_csv(csv_path)
 
