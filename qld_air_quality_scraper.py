@@ -9,6 +9,7 @@ response = requests.get(url, headers=headers)
 root = ET.fromstring(response.content)
 
 csv_path = "qld_air_quality.csv"
+latest_csv_path = "latest_qld_air_quality.csv"
 
 old_df = pd.read_csv(csv_path)
 
@@ -40,3 +41,6 @@ else:
 
     with open(csv_path, "w") as f:
         old_df.to_csv(f,index=False)
+               
+    with open(latest_csv_path, "w") as f:
+        new_data.to_csv(f,index=False)
