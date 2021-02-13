@@ -3,7 +3,6 @@ import requests
 import datetime
 import json
 import requests
-import time
 
 csv_path = 'wiki_trends.csv'
 
